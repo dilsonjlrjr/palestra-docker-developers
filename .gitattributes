@@ -1,0 +1,4 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+docker-compose.yml filter=lfs diff=lfs merge=lfs -text
+new-entrypoint.sh filter=lfs diff=lfs merge=lfs -text
+palestra.pptx filter=lfs diff=lfs merge=lfs -text
